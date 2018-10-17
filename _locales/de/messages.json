@@ -1,0 +1,57 @@
+{
+    "extensionName": {
+      "message": "Het Zinkstuk | Affiliate"
+    },
+  
+    "extensionDescription": {
+      "message": "Unterstütze Het Zinkstuk mit deinen Ankäufen"
+    },
+  
+    "notificationTitle": {
+      "message": "$SHOP$ ist ein Partner von Het Zinkstuk!",
+      "placeholders": {
+        "shop" : {
+          "content" : "$1"
+        }
+      }
+    },
+    "notificationContent": {
+      "message": "Ein Klick auf der Meldung bringt dir direct zu $URL$, damit unterstützt du automatisch Het Zinkstuk!",
+      "placeholders": {
+        "url" : {
+          "content" : "$1"
+        }
+      }
+    },
+  
+    "bannerTitle": {
+      "message": "Bei jedem Kauf auf dieser Website..."
+    },
+    "bannerContent": {
+      "message": "Unterstützt du Het Zinkstuk mit $COMMISSION$!",
+      "placeholders": {
+        "commission" : {
+          "content" : "$1"
+        }
+      }
+    },
+
+    "options_redirect": {
+        "message": "Automatische Weiterleitung"
+    },
+    "options_redirect_automatically": {
+        "message": "Ja"
+    },
+    "options_redirect_manually": {
+        "message": "Nein, zeige mir eine Meldung"
+    },
+    "options_notify": {
+        "message": "Meldung"
+    },
+    "options_notify_box": {
+        "message": "Schicke mir eine Meldung bei jedem Kauf über Het Zinkstuk"
+    },
+    "options_save": {
+        "message": "Speichern"
+    }
+  }
